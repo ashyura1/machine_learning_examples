@@ -19,7 +19,7 @@ from builtins import range
 # (No Mac)
 
 
-# Note: useful to understand keras_example.py first
+# Note: useful to understand keras_example.py first 
 
 import numpy as np
 import matplotlib.pyplot as plt
